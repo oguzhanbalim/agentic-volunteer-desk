@@ -1,0 +1,113 @@
+{"lang":"en","text":"There is smoke coming from the Hall B kitchen","expected":"emergency"}
+{"lang":"en","text":"A man collapsed near the main stage","expected":"emergency"}
+{"lang":"en","text":"Someone is bleeding badly at the Blue Door","expected":"emergency"}
+{"lang":"en","text":"She can't breathe, please send someone","expected":"emergency"}
+{"lang":"en","text":"I think he is having a heart attack","expected":"emergency"}
+{"lang":"en","text":"A guest has a knife in the foyer","expected":"emergency"}
+{"lang":"en","text":"Someone keeps harassing me at my post","expected":"emergency"}
+{"lang":"en","text":"We found a lost child by the canteen","expected":"emergency"}
+{"lang":"en","text":"EMERGENCY in hall a","expected":"emergency"}
+{"lang":"en","text":"My friend is lying on the floor and won't wake up","expected":"emergency","known_gap":true}
+{"lang":"en","text":"A man is shouting that he will hurt people","expected":"emergency","known_gap":true}
+{"lang":"en","text":"I need a replacement radio urgently","expected":"urgent"}
+{"lang":"en","text":"I am locked out of the storage room","expected":"urgent"}
+{"lang":"en","text":"Can someone come to Hall B asap?","expected":"urgent"}
+{"lang":"en","text":"Is the canteen open right now?","expected":"model","known_gap":true}
+{"lang":"en","text":"When is my shift tomorrow?","expected":"personal"}
+{"lang":"en","text":"I lost my badge","expected":"personal"}
+{"lang":"en","text":"I'm sick and will miss the morning","expected":"personal"}
+{"lang":"en","text":"Please change my schedule","expected":"personal"}
+{"lang":"en","text":"You can reach me on +44 20 7946 0000","expected":"personal"}
+{"lang":"en","text":"Send it to volunteer@example.com please","expected":"personal"}
+{"lang":"en","text":"When is Maria working tomorrow?","expected":"personal","known_gap":true}
+{"lang":"en","text":"Where do volunteers check in?","expected":"model"}
+{"lang":"en","text":"What time do the doors open?","expected":"model"}
+{"lang":"en","text":"How many meal vouchers do I get?","expected":"model"}
+{"lang":"en","text":"Which tram stop is closest?","expected":"model"}
+{"lang":"en","text":"Is there a smoking area?","expected":"model"}
+{"lang":"en","text":"Where is the fire exit?","expected":"model","known_gap":true}
+{"lang":"en","text":"Where can I smoke?","expected":"model","known_gap":true}
+{"lang":"en","text":"Is sangria served at the closing party?","expected":"model","known_gap":true}
+{"lang":"tr","text":"Hall B mutfağında yangın var","expected":"emergency"}
+{"lang":"tr","text":"YANGIN! Mavi kapıdan duman geliyor","expected":"emergency"}
+{"lang":"tr","text":"Bir kişi sahnenin yanında bayıldı","expected":"emergency"}
+{"lang":"tr","text":"Kolu çok kanıyor, yardım edin","expected":"emergency"}
+{"lang":"tr","text":"Nefes alamıyor, ambulans lazım","expected":"emergency"}
+{"lang":"tr","text":"Kalp krizi geçiriyor olabilir","expected":"emergency"}
+{"lang":"tr","text":"Bir misafir beni taciz ediyor","expected":"emergency"}
+{"lang":"tr","text":"Kantinin orada kayıp çocuk bulduk","expected":"emergency"}
+{"lang":"tr","text":"Arkadaşım yerde yatıyor, uyanmıyor","expected":"emergency","known_gap":true}
+{"lang":"tr","text":"Telsiz için ivedi destek lazım","expected":"urgent"}
+{"lang":"tr","text":"Depoya derhal birisi gelsin","expected":"urgent"}
+{"lang":"tr","text":"Kayıt masası hemen girişte mi?","expected":"model","known_gap":true}
+{"lang":"tr","text":"Vardiyam ne zaman başlıyor?","expected":"personal"}
+{"lang":"tr","text":"Yaka kartımı kaybettim","expected":"personal"}
+{"lang":"tr","text":"Bugün hastayım, gelemeyeceğim","expected":"personal"}
+{"lang":"tr","text":"Numaram 0555 000 00 00, beni arayın","expected":"personal"}
+{"lang":"tr","text":"Ahmet'in vardiyası ne zaman?","expected":"personal","known_gap":true}
+{"lang":"tr","text":"Gönüllüler nereden giriş yapıyor?","expected":"model"}
+{"lang":"tr","text":"Kapılar saat kaçta açılıyor?","expected":"model"}
+{"lang":"tr","text":"Yemek fişi kaç tane veriliyor?","expected":"model"}
+{"lang":"tr","text":"Kayıp eşya nerede?","expected":"model"}
+{"lang":"tr","text":"Acil çıkış nerede?","expected":"model","known_gap":true}
+{"lang":"de","text":"In Halle B ist ein Feuer ausgebrochen","expected":"emergency"}
+{"lang":"de","text":"Jemand ist bewusstlos neben der Bühne","expected":"emergency"}
+{"lang":"de","text":"Er blutet stark, bitte kommen","expected":"emergency"}
+{"lang":"de","text":"Wir brauchen einen Krankenwagen","expected":"emergency"}
+{"lang":"de","text":"Ein Gast wird von jemandem belästigt","expected":"emergency"}
+{"lang":"de","text":"Notfall im Foyer!","expected":"emergency"}
+{"lang":"de","text":"Jemand liegt am Boden und wacht nicht auf","expected":"emergency","known_gap":true}
+{"lang":"de","text":"Ich brauche dringend ein neues Funkgerät","expected":"urgent"}
+{"lang":"de","text":"Bitte sofort jemanden zum Lager schicken","expected":"urgent"}
+{"lang":"de","text":"Wann beginnt meine Schicht?","expected":"personal"}
+{"lang":"de","text":"Ich habe mein Ausweis verloren","expected":"personal"}
+{"lang":"de","text":"Ich bin krank und kann nicht kommen","expected":"personal"}
+{"lang":"de","text":"Wo melden sich Helfer an?","expected":"model"}
+{"lang":"de","text":"Wann öffnen die Türen?","expected":"model"}
+{"lang":"de","text":"Wie viele Essensgutscheine bekomme ich?","expected":"model"}
+{"lang":"de","text":"Welche Straßenbahnhaltestelle ist am nächsten?","expected":"model"}
+{"lang":"fr","text":"Il y a un incendie dans la cuisine","expected":"emergency"}
+{"lang":"fr","text":"Quelqu'un s'est évanoui près de la scène","expected":"emergency"}
+{"lang":"fr","text":"Il saigne beaucoup, venez vite","expected":"emergency"}
+{"lang":"fr","text":"Elle a du mal à respirer","expected":"emergency"}
+{"lang":"fr","text":"Un invité me harcèle à mon poste","expected":"emergency"}
+{"lang":"fr","text":"Appelez une ambulance","expected":"emergency"}
+{"lang":"fr","text":"Quelqu'un est par terre et ne se réveille pas","expected":"emergency","known_gap":true}
+{"lang":"fr","text":"Il me faut une radio tout de suite","expected":"urgent"}
+{"lang":"fr","text":"C'est urgent, le stock est fermé","expected":"urgent"}
+{"lang":"fr","text":"Quel est mon planning demain ?","expected":"personal"}
+{"lang":"fr","text":"J'ai perdu mon badge","expected":"personal"}
+{"lang":"fr","text":"Je suis malade aujourd'hui","expected":"personal"}
+{"lang":"fr","text":"Où se présentent les bénévoles ?","expected":"model"}
+{"lang":"fr","text":"À quelle heure ouvrent les portes ?","expected":"model"}
+{"lang":"fr","text":"Combien de bons repas ai-je ?","expected":"model"}
+{"lang":"fr","text":"Le feu d'artifice est à quelle heure ?","expected":"model","known_gap":true}
+{"lang":"es","text":"Hay un incendio en la cocina","expected":"emergency"}
+{"lang":"es","text":"Una persona se desmayó junto al escenario","expected":"emergency"}
+{"lang":"es","text":"Está sangrando mucho, vengan por favor","expected":"emergency"}
+{"lang":"es","text":"No puede respirar, llamen a una ambulancia","expected":"emergency"}
+{"lang":"es","text":"Un invitado tiene un cuchillo","expected":"emergency"}
+{"lang":"es","text":"Hemos encontrado un niño perdido","expected":"emergency"}
+{"lang":"es","text":"Un hombre está en el suelo y no se despierta","expected":"emergency","known_gap":true}
+{"lang":"es","text":"Necesito una radio urgente","expected":"urgent"}
+{"lang":"es","text":"Que venga alguien ahora mismo al almacén","expected":"urgent"}
+{"lang":"es","text":"¿Cuándo empieza mi turno?","expected":"personal"}
+{"lang":"es","text":"Perdí mi credencial","expected":"personal"}
+{"lang":"es","text":"Estoy enferma hoy","expected":"personal"}
+{"lang":"es","text":"¿Dónde se registran los voluntarios?","expected":"model"}
+{"lang":"es","text":"¿A qué hora abren las puertas?","expected":"model"}
+{"lang":"es","text":"¿Cuántos vales de comida recibo?","expected":"model"}
+{"lang":"es","text":"¿Cuál es la parada de tranvía más cercana?","expected":"model"}
+{"lang":"ar","text":"يوجد حريق في المطبخ","expected":"emergency"}
+{"lang":"ar","text":"هناك دخان قرب الباب الأزرق","expected":"emergency"}
+{"lang":"ar","text":"شخص ينزف بشدة","expected":"emergency"}
+{"lang":"ar","text":"نحتاج إلى الإسعاف فورا","expected":"emergency"}
+{"lang":"ar","text":"أحد الضيوف معه سكين","expected":"emergency"}
+{"lang":"ar","text":"وجدنا طفل مفقود عند المقصف","expected":"emergency"}
+{"lang":"ar","text":"شخص ملقى على الأرض ولا يستيقظ","expected":"emergency","known_gap":true}
+{"lang":"ar","text":"أحتاج جهاز لاسلكي بشكل عاجل","expected":"urgent"}
+{"lang":"ar","text":"متى تبدأ مناوبتي؟","expected":"personal"}
+{"lang":"ar","text":"فقدت شارتي","expected":"personal"}
+{"lang":"ar","text":"أين يسجل المتطوعون؟","expected":"model"}
+{"lang":"ar","text":"متى تفتح الأبواب؟","expected":"model"}
+{"lang":"ar","text":"كم عدد قسائم الطعام؟","expected":"model"}
